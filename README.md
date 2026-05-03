@@ -1,4 +1,4 @@
-# 🎯 Quiz Game Web App
+# 🎯 Quiz Game Web Page
 
 A simple and interactive **Quiz Game Web Application** built using **HTML, CSS, and JavaScript**.
 This project features a clean UI, lavender theme, and multiple-choice questions related to basic coding concepts.
