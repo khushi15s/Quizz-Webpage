@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Quiz Game</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="quiz-container">
+    <h1>QUIZ GAME</h1>
+
+    <div id="question">Question text</div>
+
+    <div class="options">
+        <button class="option" onclick="selectAnswer(0)">A</button>
+        <button class="option" onclick="selectAnswer(1)">B</button>
+        <button class="option" onclick="selectAnswer(2)">C</button>
+        <button class="option" onclick="selectAnswer(3)">D</button>
+    </div>
+
+    <div class="footer">
+        <span id="progress">Question 1/15</span>
+        <span id="score">Score: 0</span>
+    </div>
+
+    <div class="progress-bar">
+        <div id="progress-fill"></div>
+    </div>
+
+    <button class="exit-btn" onclick="restartQuiz()">Restart Quiz</button>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
