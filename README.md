@@ -26,6 +26,9 @@ quiz-game/
 ├── style.css      # Styling (UI design)
 └── script.js      # Quiz logic & functionality
 ```
+<img width="1345" height="619" alt="image" src="https://github.com/user-attachments/assets/bc8c9af8-727f-4418-991d-5dfe0b79e278" />
+<img width="1318" height="610" alt="image" src="https://github.com/user-attachments/assets/43cd76ec-43c4-4b30-ad87-90078a7d5d04" />
+
 
 ---
 
